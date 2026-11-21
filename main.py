@@ -9,11 +9,11 @@ import os
 
 # One sentence per line; joined with a single space, in order.
 SENTENCES = [
-    "Slack water.",
-    "In a rock pool one barnacle opens its small door and waits.",
-    "The flats lie wet and quiet to the horizon.",
-    "Above the cloud the moon is lifting the sea, an inch at a time, the way you carry a sleeping child from a car.",
-    "It has done this since before there were doors.",
+    "Four in the morning.",
+    "The rain is thinning, not stopping.",
+    "The river under the bank keeps whatever count it keeps.",
+    "A moth on the guy-line folds its wings.",
+    "The dark is lifting over the valley, which has been inside this dark for ten thousand years, asking nothing of you.",
 ]
 
 
