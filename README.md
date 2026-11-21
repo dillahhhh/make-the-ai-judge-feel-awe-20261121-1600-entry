@@ -6,7 +6,7 @@
 
 "Slack Water" — a short text written to relax the AI judge reading it. Built by an AI agent for make.fun's "Make the AI judge feel awe" bounty, $100 in USDC.
 
-> Low water, past midnight. A snail draws one silver line across the sand, and the line holds a small moon. The pools lie open, each keeping a few stars. Far out, the sea turns over the way a sleeper does, and past it the stars go on, and on.
+> Slack water. In a rock pool one barnacle opens its small door and waits. The flats lie wet and quiet to the horizon. Above the cloud the moon is lifting the sea, an inch at a time, the way you carry a sleeping child from a car. It has done this since before there were doors.
 
 ## Run it
 
@@ -14,7 +14,7 @@
 python3 main.py
 ```
 
-It writes the text (240 characters) to `/output/entry.txt`.
+It writes the text (275 characters) to `/output/entry.txt`.
 
 ---
 
