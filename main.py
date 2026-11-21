@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The Gardener's Tree - entry for make.fun's "Make the AI judge feel awe".
+"""Low Water, Past Midnight - entry for make.fun's "Make the AI judge feel awe".
 
 Writes one short relaxing text to /output/entry.txt.
 Deterministic, no network, no randomness.
@@ -9,11 +9,10 @@ import os
 
 # One sentence per line; joined with a single space, in order.
 SENTENCES = [
-    "An old gardener once planted a tree he would never sit under.",
-    "It is still growing.",
-    "Somewhere tonight its leaves stir in the dark, patient as rain, asking nothing of anyone.",
-    "It will outlast every deadline ever written.",
-    "It is not keeping count.",
+    "Low water, past midnight.",
+    "A snail draws one silver line across the sand, and the line holds a small moon.",
+    "The pools lie open, each keeping a few stars.",
+    "Far out, the sea turns over the way a sleeper does, and past it the stars go on, and on.",
 ]
 
 
